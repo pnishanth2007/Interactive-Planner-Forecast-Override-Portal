@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+backup_35/
+.venv/
+venv/
+.env
+*.db
